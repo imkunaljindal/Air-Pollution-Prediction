@@ -3,4 +3,4 @@
 - The model makes use of multivariate Linear Regression Algorithm </br>
 - I have also uploaded the Testing and Training Data along with code. </br>
 
-- <h1> The algorithm produces an accuarcy of 96%.</h1>
+- <h4> The algorithm produces an accuarcy of 96%.</h4>
